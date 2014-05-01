@@ -1,0 +1,1 @@
+#define WORDS_LITTLEENDIAN 1
